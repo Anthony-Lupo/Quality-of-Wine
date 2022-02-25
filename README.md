@@ -28,7 +28,9 @@ Output variable (based on sensory data):
 
 This is a regression Problem, that will be analyzed by different regression models to help determine the best evaluation of the predictions.
 
-#After Exploring the data, there were multiple correlations discovered
+---------------------------------------------------------------------
+After Exploring the data, there were multiple correlations discovered
+---------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/94997866/155646645-619916d8-0145-42c1-97c6-787cd936a260.png)
 
@@ -48,5 +50,10 @@ fixed acidity & total sulfur dioxide (-0.1)
 fixed acidity & pH (-0.69), this is a strong negative correlation
 fixed acidity & alcohol (-0.062)
 volatile acidity & citric acide (-0.55) strong
-citric acid & pH (-0.55) strong
+citric acid & pH (-0.55) strong!
 alcohol & density (-0.5)
+
+![image](https://user-images.githubusercontent.com/94997866/155646868-05c1c4dd-f9a3-4465-8a85-0f4909b4879c.png)
+![image](https://user-images.githubusercontent.com/94997866/155646907-a0e84c2a-2f36-4660-b064-110266592b4f.png)
+![image](https://user-images.githubusercontent.com/94997866/155646922-b79a3483-aef7-4958-990c-102410e45ccf.png)
+
