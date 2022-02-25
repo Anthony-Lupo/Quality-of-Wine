@@ -37,21 +37,22 @@ After Exploring the data, there were multiple correlations discovered
 
 There seems to minimal correlation between alcohol and quality, at 0.48, making it the strongest of the correlations between a feature and the target.
 
-There seems to be a strong correlation between:
+**There seems to be a strong correlation between:
 
-density and fixed acidity (0.67)
-citric acid and fixed acidity (0.67)
-pH and fixed acidity (0.69)
-There is a negative correlation between:
+- density and fixed acidity (0.67)
+- citric acid and fixed acidity (0.67)
+- pH and fixed acidity (0.69)
 
-fixed acidity & volatile acidity (-0.26)
-fixed acidity & free sulfur dioxide (-0.14)
-fixed acidity & total sulfur dioxide (-0.1)
-fixed acidity & pH (-0.69), this is a strong negative correlation
-fixed acidity & alcohol (-0.062)
-volatile acidity & citric acide (-0.55) strong
-citric acid & pH (-0.55) strong!
-alcohol & density (-0.5)
+*There is a negative correlation between:
+
+- fixed acidity & volatile acidity (-0.26)
+- fixed acidity & free sulfur dioxide (-0.14)
+- fixed acidity & total sulfur dioxide (-0.1)
+- fixed acidity & pH (-0.69), this is a strong negative correlation
+- fixed acidity & alcohol (-0.062)
+- volatile acidity & citric acide (-0.55) strong
+- citric acid & pH (-0.55) strong!
+- alcohol & density (-0.5)
 
 ![image](https://user-images.githubusercontent.com/94997866/155646868-05c1c4dd-f9a3-4465-8a85-0f4909b4879c.png)
 ![image](https://user-images.githubusercontent.com/94997866/155646907-a0e84c2a-2f36-4660-b064-110266592b4f.png)
