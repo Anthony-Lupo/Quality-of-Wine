@@ -24,3 +24,6 @@ Input variables (based on physicochemical tests):
 11. alcohol :   Percent of alcohol present in wine.
 Output variable (based on sensory data):
 12 - quality (score between 3 and 8)
+
+
+This is a regression Pproblem, that will be analyzed by different regression models to help determine the best evaluation of the predictions.
