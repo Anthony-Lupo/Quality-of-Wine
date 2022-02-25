@@ -26,4 +26,27 @@ Output variable (based on sensory data):
 12 - quality (score between 3 and 8)
 
 
-This is a regression Pproblem, that will be analyzed by different regression models to help determine the best evaluation of the predictions.
+This is a regression Problem, that will be analyzed by different regression models to help determine the best evaluation of the predictions.
+
+#After Exploring the data, there were multiple correlations discovered
+
+![image](https://user-images.githubusercontent.com/94997866/155646645-619916d8-0145-42c1-97c6-787cd936a260.png)
+
+
+There seems to minimal correlation between alcohol and quality, at 0.48, making it the strongest of the correlations between a feature and the target.
+
+There seems to be a strong correlation between:
+
+density and fixed acidity (0.67)
+citric acid and fixed acidity (0.67)
+pH and fixed acidity (0.69)
+There is a negative correlation between:
+
+fixed acidity & volatile acidity (-0.26)
+fixed acidity & free sulfur dioxide (-0.14)
+fixed acidity & total sulfur dioxide (-0.1)
+fixed acidity & pH (-0.69), this is a strong negative correlation
+fixed acidity & alcohol (-0.062)
+volatile acidity & citric acide (-0.55) strong
+citric acid & pH (-0.55) strong
+alcohol & density (-0.5)
