@@ -1,9 +1,30 @@
 Predicting The Wine Quality
 
-
 ![20190430_195732](https://user-images.githubusercontent.com/94997866/155644786-516ce884-cf78-40e0-821d-7aa363d7350e.jpg)
 
+Citation Request:
+This dataset is public available for research. The details are described in [Cortez et al., 2009].
+Please include this citation if you plan to use this database:
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
+Modeling wine preferences by data mining from physicochemical properties.
+In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
 Sommeliers are able to tell the quality of wine by taste, smell, sight and mouth feel. What if you aren't a Sommelier and you want to make wine? How do you decide what is a good wine?
+
+Sources
+Created by: Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009
+
+Past Usage:
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
+Modeling wine preferences by data mining from physicochemical properties.
+In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+In the above reference, two datasets were created, using red and white wine samples.
+The inputs include objective tests (e.g. PH values) and the output is based on sensory data
+(median of at least 3 evaluations made by wine experts). Each expert graded the wine quality
+between 0 (very bad) and 10 (very excellent
 
 I have been tasked with predicting the quality of wine based off of 11 different features. These are chemical properties of wine, that can be quantified by anybody.
 
